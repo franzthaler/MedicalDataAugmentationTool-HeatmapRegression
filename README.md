@@ -4,7 +4,7 @@
 This example implements the networks of the papers [Regressing Heatmaps for Multiple Landmark Localization Using CNNs](https://doi.org/10.1007/978-3-319-46723-8_27) and [Integrating Spatial Configuration into Heatmap Regression Based CNNs for Landmark Localization](https://doi.org/10.1016/j.media.2019.03.007).
 Look into the subfolders of this repository for individual examples and more details.
 
-You need to have the [MedicalDataAugmentationTool](https://github.com/christianpayer/MedicalDataAugmentationTool) framework downloaded and in you PYTHONPATH for the scripts to work.
+You need to have the [MedicalDataAugmentationTool](https://github.com/christianpayer/MedicalDataAugmentationTool) framework downloaded and in your PYTHONPATH for the scripts to work.
 If you have problems/questions/suggestions about the code, write me a [mail](mailto:christian.payer@gmx.net)!
 
 ### Train models
